@@ -1,7 +1,5 @@
 ## VBA of Wall Street - Written Analysis of the Results
 
-
-
 ### Overview of Project: Explain the purpose of this analysis.
 
   The purpose of the analysis was to assist Steve 
