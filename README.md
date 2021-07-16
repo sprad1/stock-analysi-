@@ -6,6 +6,9 @@
 
 ### Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
+
+    ### Elapsed run-time for the original code:
+    
   ![VBA_Challenge_2017](https://user-images.githubusercontent.com/86751774/125832159-a3dd53fa-704b-41ac-a1cc-6bf01694030b.png)
   
   ![VBA_Challenge_2018](https://user-images.githubusercontent.com/86751774/125832700-85eb655d-9922-4511-8a02-7092b815f886.png)
