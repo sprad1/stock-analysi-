@@ -2,7 +2,7 @@
 
 ### Overview of Project: Explain the purpose of this analysis.
 
-  The purpose of the analysis was to assist Steve 
+  The purpose of this analysis was to edit or refactor the VBA code to loop through all the stock data one time in order to collect an entire dataset and to determine if after refactoring, the code made the VBA script run faster by measuring the performance. 
 
 ### Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
